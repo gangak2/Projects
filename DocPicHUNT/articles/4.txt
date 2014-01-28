@@ -1,0 +1,15 @@
+Most airplanes are constructed by companies with the objective of producing them in quantity for customers. The design and planning process, including safety tests, can last up to four years for small turboprops or longer for larger planes.
+
+During this process, the objectives and design specifications of the aircraft are established. First the construction company uses drawings and equations, simulations, wind tunnel tests and experience to predict the behavior of the aircraft. Computers are used by companies to draw, plan and do initial simulations of the aircraft. Small models and mockups of all or certain parts of the plane are then tested in wind tunnels to verify its aerodynamics.
+
+When the design has passed through these processes, the company constructs a limited number of prototypes for testing on the ground. Representatives from an aviation governing agency often make a first flight. The flight tests continue until the aircraft has fulfilled all the requirements. Then, the governing public agency of aviation of the country authorizes the company to begin production.
+
+In the United States, this agency is the Federal Aviation Administration (FAA), and in the European Union, Joint Aviation Authorities (JAA). In Canada, the public agency in charge and authorizing the mass production of aircraft is Transport Canada.
+
+In the case of international sales, a license from the public agency of aviation or transport of the country where the aircraft is to be used is also necessary. For example, airplanes made by the European company, Airbus, need to be certified by the FAA to be flown in the United States, and airplanes made by U.S.-based Boeing need to be approved by the JAA to be flown in the European Union.
+
+Quieter planes are becoming more and more necessary due to the increase in air traffic, particularly over urban areas, as aircraft noise pollution is a major concern.
+
+Small planes can be designed and constructed by amateurs as homebuilts. Other homebuilt aircraft can be assembled using pre-manufactured kits of parts that can be assembled into a basic plane and must then be completed by the builder.
+
+There are few companies that produce planes on a large scale. However, the production of a plane for one company is a process that actually involves dozens, or even hundreds, of other companies and plants, that produce the parts that go into the plane. For example, one company can be responsible for the production of the landing gear, while another one is responsible for the radar. The production of such parts is not limited to the same city or country; in the case of large plane manufacturing companies, such parts can come from all over the world.

@@ -1,0 +1,12 @@
+    Handheld PC: A Handheld PC, or H/PC for short, is a term for a computer built around a form factor which is smaller than any standard laptop computer. It is sometimes referred to as a Palmtop. The first handheld device compatible with desktop IBM personal computers of the time was the Atari Portfolio of 1989. Other early models were the Poqet PC of 1989 and the Hewlett Packard HP 95LX of 1991. Other DOS compatible hand-held computers also existed.
+    Rugged: Engineered to operate in tough conditions (mechanical shocks, extreme temperatures, wet and dusty environments, etc.)
+    Ultrabook: A very thin version of a laptop usually less than an inch thick. Most versions of Ultrabooks contain SSD, or Solid-State Drives, instead of the common Laptop Hard Disk Drives. Although this term (like Netbook) was coined and popularized by Intel, one of the most prominent examples is Apple's Macbook Air.
+
+Desktop replacement
+Main article: Desktop replacement computer
+
+A desktop-replacement computer is a laptop that provides all of the capabilities of a desktop computer, with a similar level of performance. Desktop replacements are usually larger and heavier than standard laptops. They contain more powerful components and have a 15" or larger display.[11] They are bulkier and not as portable as other laptops, and their operation time on batteries is typically shorter; they are intended to be used as compact and transportable alternatives to a desktop computer.[11]
+
+Some laptops in this class use a limited range of desktop components to provide better performance for the same price at the expense of battery life; a few of those models have no battery.[13] In the early 2000s, desktops were more powerful, easier to upgrade, and much cheaper than laptops, but in later years laptops have become much cheaper and more powerful than before,[14] and most peripherals are available in laptop-compatible USB versions which minimize the need for internal add-on cards.
+
+The names "Media Center Laptops" and "Gaming Laptops" are used to describe specialized notebook computers.[10]

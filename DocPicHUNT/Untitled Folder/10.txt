@@ -1,0 +1,9 @@
+A laptop is a portable personal computer with a clamshell form factor, suitable for mobile use.[1] A laptop has most of the same components as a desktop computer, including a display, a keyboard, a pointing device such as a touchpad (also known as a trackpad) and/or a pointing stick, and speakers into a single unit. A laptop is powered by mains electricity via an AC adapter, and can be used away from an outlet using a rechargeable battery. Laptops are also sometimes called notebook computers or notebooks. Other terms, such as ultrabooks or netbooks, refer to specific types of laptop / notebook. Most of the modern day laptop computers also have a webcam and a mic (microphone) pre-installed.
+
+Portable computers, originally monochrome CRT-based and developed into the modern laptops, were originally considered to be a small niche market, mostly for specialized field applications such as the military, accountants and sales representatives. As portable computers became smaller, lighter, cheaper, and more powerful and as screens became larger and of better quality, laptops became very widely used for a variety of purposes.
+
+As the personal computer (PC) became feasible in the 1970s, the idea of a portable personal computer followed. A "personal, portable information manipulator" was imagined by Alan Kay at Xerox PARC in 1968,[2] and described in his 1972 paper as the "Dynabook".[3]
+
+The IBM Special Computer APL Machine Portable (SCAMP), was demonstrated in 1973. This prototype was based on the IBM PALM processor (Put All Logic in Microcode or 128 bit).
+
+The IBM 5100, the first commercially available portable computer, appeared in September 1975, and was based on the SCAMP prototype.[4]

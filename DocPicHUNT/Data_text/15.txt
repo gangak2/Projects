@@ -1,0 +1,11 @@
+Netbooks are laptops that are inexpensive, light-weight, economical, energy-efficient and especially suited for wireless communication and Internet access.[17][18] Hence the name netbook (as "the device excels in web-based computing performance").[19]
+
+With primary focus given to web browsing and e-mailing, netbooks are intended to "rely heavily on the Internet for remote access to web-based applications"[19] and are targeted increasingly at cloud computing users who rely on servers and require a less powerful client computer.[20] A common distinguishing feature is the lack of optical disk (i.e. CD, DVD or Blu-ray) drives. While the devices range in size from below 5 inches to over 12 inches,[21] most are between 9 and 11 inches (280 mm) and weigh between 0.9–1.4 kg (2–3 pounds).[19]
+
+Netbooks are mostly sold with light-weight operating systems such as Linux, Windows XP and Windows 7 Starter edition.
+
+Netbooks do have a few disadvantages. Because the netbooks are so thin, the first products introduced to the market utilized solid-state drives for internal storage instead of traditional hard disks, increasing cost and lowering storage space. Hard disk drive technology and form factors have since been adapted to fit into netbooks providing more hard drive space without increasing cost, a key point of a netbook. Another issue with netbooks is expansion. In order to produce small, inexpensive laptops, netbooks generally lack significant upgrade ability. A majority of netbooks only have a single memory slot and will not recognize any amount beyond 2 GB of RAM. This limits the capabilities of the netbook beyond basic functionality (internet, e-mail, etc.). Finally because of their size and use of more rudimentary components compared to notebooks and subnotebooks, netbooks also generally have a slower CPU[22]
+
+In 2009, Google announced an operating system called Google Chrome OS for this market and in 2011 the Google Chromebook was released running on the Google Chrome OS.
+
+The big breakthrough for netbook computers did not happen until the weight, diagonal form-factor and price combination of < 1 kg, < 9", < U.S. $400, respectively, became commercially available in around 2008.

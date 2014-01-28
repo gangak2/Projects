@@ -1,0 +1,10 @@
+Subnotebook
+Main article: Subnotebook
+
+A subnotebook or ultraportable is a laptop designed and marketed with an emphasis on portability (small size, low weight and often longer battery life) that retains performance close to that of a standard notebook. Subnotebooks are usually smaller and lighter than standard laptops, weighing between 0.8 and 2 kg (2 to 5 pounds);[10] the battery life can exceed 10 hours[15] when a large battery or an additional battery pack is installed. Since the introduction of netbooks, the line between subnotebooks and higher-end netbooks has been substantially blurred.
+
+To achieve the size and weight reductions, ultraportables use 13" and smaller screens (down to 6.4"), have relatively few ports (but in any case include two or more USB ports), employ expensive components designed for minimal size and best power efficiency, and utilize advanced materials and construction methods. Most subnotebooks achieve a further portability improvement by omitting an optical/removable media drive; in this case they may be paired with a docking station that contains the drive and optionally more ports or an additional battery.
+
+The term "subnotebook" is reserved to laptops that run general-purpose desktop operating systems such as Windows, Linux or Mac OS X, rather than specialized software such as Windows CE, iOS, Palm OS or Internet Tablet OS.
+
+At Computex 2011 Intel announced a new class for ultraportables called Ultrabooks. The term is used to describe a highly portable laptop that has strict limits for size, weight, battery life, and have tablet-like features such as instant on functionality. Intel estimates that by the end of 2012, 40 percent of the consumer laptop market segment will be Ultrabooks.[16]
