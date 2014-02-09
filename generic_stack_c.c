@@ -58,10 +58,10 @@ int main(){
     _stackImproved* structStack = createStackImproved();
 
     _students* Student1 = malloc(sizeof(_students));
-    Student1->Name = "Gangaprasad Koturwar";
+    Student1->Name = "Robert Langdon";
     Student1->Roll_number = 10259;
     _students* Student2 = malloc(sizeof(_students));
-    Student2->Name = "Abhishek Dalmia";
+    Student2->Name = "Emilia Hopkins";
     Student2->Roll_number = 10018;
 
     pushImproved(Student1,structStack);
